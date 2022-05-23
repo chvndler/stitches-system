@@ -1,0 +1,19 @@
+{
+  "name": "@backlight-dev/waiting-responsibility-p8fkx.stitches-l3i9kqt5",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve yuJK4k56scQaJUZNOsL0 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@stitches/react": "*",
+    "@mdx-js/react": "*",
+    "react": "^17",
+    "react-dom": "^17",
+    "@divriots/dockit-react": "*"
+  }
+}
